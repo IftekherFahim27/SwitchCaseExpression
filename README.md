@@ -72,7 +72,7 @@ namespace SwitchCaseExpression
             {
                 case 1: return "SAP A1";
                 case 2: return "SAP B1";
-                case 3: return "Oracel";
+                case 3: return "Oracle";
                 case 4: return "ERPNext";
                 case 5: return "Mobile Applicaton";
                 case 6: return "Web Application";
@@ -86,7 +86,7 @@ namespace SwitchCaseExpression
             {
                 1 => "SAP A1",
                 2 => "SAP B1",
-                3 => "Oracel",
+                3 => "Oracle",
                 4 => "ERPNext",
                 5 => "Mobile Applicaton",
                 6 => "Web Application",
